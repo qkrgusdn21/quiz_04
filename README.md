@@ -26,5 +26,9 @@ Quiz 04
     답 :  
 10. 프로젝트의 root_url은 어디로 연결되어있는지 쓰시오
     답 : 
-11. article_url 의 method : get 요청에는 몇개의 hltml 페이지가 렌더링되있는지 적고 각각이 어떤 redering page 인지 적으시오  
+11. article_url 의 method : get 요청에는 몇개의 html 페이지가 렌더링되있는지 적고 각각이 어떤 redering page 인지 적으시오  
+    답 : 
+
+12. 본인의 보조강의 워크스페이스 github repo 주소를 적으시오  
+깃헙에 없다면 새로 만들어서 링크를 제출하시오   
     답 : 
